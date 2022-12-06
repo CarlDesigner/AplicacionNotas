@@ -1,7 +1,7 @@
 const express = require("express");
 const exphbs = require("express-handlebars");
-
 const path = require("path");
+const morgan = require("morgan");
 
 
 //Inicializacion
@@ -23,6 +23,7 @@ app.set("view engine", ".hbs")
 
 
 //Middlewares
+app.use(morgan("dev"));
 app.use(express.urlencoded({ extended: false }));
 
 
