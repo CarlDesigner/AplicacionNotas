@@ -1,5 +1,9 @@
 body {
     height: 100vh;
-    background-image: url("../f1.png");
+    background-image: url("../img/f1.png");
     background-size: cover;
+}
+
+.logo {
+    width: 30%;
 }
