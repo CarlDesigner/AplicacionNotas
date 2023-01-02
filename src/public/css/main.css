@@ -1,22 +1,8 @@
 body {
-    background-image: url("../img/bg2.svg");
+    background-color: #1C1F4A;
     background-size: cover;
 }
 
-/* body {
-    background: rgb(131, 58, 180);
-    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
-} */
-
 .logo {
-    width: 30%;
+    width: 20%;
 }
-
-/* #glass {
-    background: rgba(0, 255, 255, 0.05);
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border-radius: 10px;
-
-} */
