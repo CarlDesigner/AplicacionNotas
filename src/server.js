@@ -6,6 +6,7 @@ const methodOverride = require("method-override");
 const flash = require("connect-flash");
 const session = require("express-session");
 const passport = require("passport");
+const Swal = require("sweetalert2");
 
 
 
