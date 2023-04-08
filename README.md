@@ -1,3 +1,3 @@
 ## Aplicación de Notas
 
-Author: CarlDesigner
+Author: `@CarlDesigner`
